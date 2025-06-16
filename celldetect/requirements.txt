@@ -1,0 +1,33 @@
+# 血细胞检测系统依赖包
+# 血细胞检测系统 - Requirements File
+
+# 核心计算库
+numpy>=1.19.0
+scipy>=1.6.0
+
+# 机器学习库
+scikit-learn>=1.0.0
+scikit-image>=0.18.0
+
+# 计算机视觉库
+opencv-python>=4.5.0
+opencv-contrib-python>=4.5.0
+
+# 图像处理库
+Pillow>=8.0.0
+
+# 可视化库
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# 进度条库
+tqdm>=4.60.0
+
+# XML解析库
+lxml>=4.6.0
+
+# 数据处理库
+pandas>=1.2.0
+
+# 其他工具库
+argparse>=1.4.0 

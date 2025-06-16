@@ -1,0 +1,26 @@
+{
+  "train_accuracy": 0.9974874371859297,
+  "num_positive": 7146,
+  "num_negative": 814,
+  "feature_dim_original": 1764,
+  "feature_dim_reduced": 454,
+  "class_info": {
+    "positive_classes": [
+      0,
+      1,
+      2
+    ],
+    "background_class": 3,
+    "num_classes": 4
+  },
+  "training_time": 87.65012717247009,
+  "data_augmentation": {
+    "enabled": false,
+    "balance_samples": true,
+    "target_samples_per_class": null
+  },
+  "model_paths": {
+    "feature_extractor": "outputs\\models\\feature_extractor.pkl",
+    "detector": "outputs\\models\\detector.pkl"
+  }
+}

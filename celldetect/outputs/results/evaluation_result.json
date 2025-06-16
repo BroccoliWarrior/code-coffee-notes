@@ -1,0 +1,27 @@
+{
+  "accuracy": 0.8754512635379061,
+  "precision": 0.1511845386533666,
+  "recall": 0.9736379613356766,
+  "f1_score": 0.2617284167081873,
+  "num_predictions": 6416,
+  "num_matches": 1108,
+  "num_ground_truth": 1138,
+  "correct_matches": 970,
+  "evaluation_time": 472.76555705070496,
+  "test_images_count": 87,
+  "iou_threshold": 0.15,
+  "confidence_threshold": 0.95,
+  "nms_threshold": 0.3,
+  "class_statistics": {
+    "predictions": {
+      "RBC": 100,
+      "WBC": 7,
+      "Platelets": 6
+    },
+    "ground_truth": {
+      "RBC": 109,
+      "WBC": 6,
+      "Platelets": 4
+    }
+  }
+}

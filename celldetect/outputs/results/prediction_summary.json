@@ -1,0 +1,13 @@
+{
+  "total_detections": 71,
+  "total_images": 4,
+  "average_detections_per_image": 17.75,
+  "class_counts": {
+    "RBC": 61,
+    "WBC": 2,
+    "Platelets": 8
+  },
+  "average_confidence": 0.9848340828097352,
+  "min_confidence": 0.9504940770236215,
+  "max_confidence": 0.9999679242733236
+}
